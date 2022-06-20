@@ -28,6 +28,11 @@ const findSumOfTwo = (array, targetSum) => {
 	return false
 }
 
+const mergeSort = (head1, head2) => {
+	
+	return head1
+} 
+
 const deepCopyArbitraryPointer = (head) => {
 
 }
